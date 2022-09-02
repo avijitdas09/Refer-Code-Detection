@@ -1,1 +1,1 @@
-# Detect refer code in app from download source
+# Detect refer code in app automaticly
